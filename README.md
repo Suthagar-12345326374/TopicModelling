@@ -1,6 +1,6 @@
  Topic Modeling in NLP
 
-This project demonstrates unsupervised topic modeling techniques in Natural Language Processing using Python and Jupyter Notebook. It explores techniques like **LDA (Latent Dirichlet Allocation)** and **NMF (Non-negative Matrix Factorization)** on a custom or public dataset.
+This project demonstrates unsupervised topic modeling techniques in Natural Language Processing using Python and Jupyter Notebook. It explores techniques like **LDA (Latent Dirichlet Allocation)** and **NMF (Non-negative Matrix Factorization)** and   ** Bert** on a custom or public dataset.
 
 ---
 
@@ -11,6 +11,7 @@ This project demonstrates unsupervised topic modeling techniques in Natural Lang
 - Topic modeling using:
   - Latent Dirichlet Allocation (LDA)
   - Non-negative Matrix Factorization (NMF)
+  - Bert
 - Visualization of topics using:
   - Word clouds
   - pyLDAvis (if used)
