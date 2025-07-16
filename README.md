@@ -43,7 +43,7 @@ Or manually install:
 pip install numpy pandas scikit-learn nltk matplotlib seaborn gensim pyLDAvis wordcloud
 🚀 How to Run the Project
 Clone the repository:
-git clone https://github.com/arjun-selson/TopicModelling.git
+
 cd TopicModelling
 Open the notebook:
 
